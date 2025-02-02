@@ -2,7 +2,7 @@
 
 🎯 ParkinsonsAIDetector is an advanced AI-powered project designed to detect and analyze Parkinson’s disease with high precision. By leveraging cutting-edge machine learning 🤖 and deep learning 🧠 techniques, this project utilizes biomedical data to identify key indicators of Parkinson’s disease. The repository aims to provide both a comprehensive diagnostic tool and an in-depth exploration of AI's potential in healthcare.
 
-✨ Key Features
+## ✨ Key Features
 ✅ AI-Powered Detection: Utilizes AI models for accurate diagnosis of Parkinson’s disease based on voice and biomedical data.
 ✅ Machine Learning & Deep Learning Models: A combination of traditional machine learning and deep learning methods ensures robust and scalable predictions.
 ✅ Data Preprocessing & Feature Engineering: Thorough preprocessing steps and feature extraction techniques maximize model performance.
