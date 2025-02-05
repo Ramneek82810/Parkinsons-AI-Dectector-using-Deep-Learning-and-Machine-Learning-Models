@@ -30,7 +30,7 @@ Pandas & NumPy (Data Manipulation) 📊: Critical for data preprocessing and man
 
 Matplotlib & Seaborn (Visualization) 🎨: For creating visualizations that help analyze the model's performance and results.
 
-📂 Dataset Information
+## 📂 Dataset Information
 The project uses biomedical voice measurements to detect Parkinson’s disease. The dataset contains various attributes that represent voice signals, which are critical in diagnosing the disease.
 
 📊 Key Data Features Include:
