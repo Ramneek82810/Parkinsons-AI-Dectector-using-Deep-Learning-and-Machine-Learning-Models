@@ -29,6 +29,7 @@ PyTorch (Neural Networks) 🔥: Advanced neural network library used for fine-tu
 Pandas & NumPy (Data Manipulation) 📊: Critical for data preprocessing and manipulation tasks.
 
 Matplotlib & Seaborn (Visualization) 🎨: For creating visualizations that help analyze the model's performance and results.
+
 📂 Dataset Information
 The project uses biomedical voice measurements to detect Parkinson’s disease. The dataset contains various attributes that represent voice signals, which are critical in diagnosing the disease.
 
