@@ -34,7 +34,7 @@ Matplotlib & Seaborn (Visualization) 🎨: For creating visualizations that help
 
 The project uses biomedical voice measurements to detect Parkinson’s disease. The dataset contains various attributes that represent voice signals, which are critical in diagnosing the disease.
 
-📊 Key Data Features Include:
+## 📊 Key Data Features Include:
 
 MDVP: Fundamental frequency measurements, such as mean fundamental frequency (Fo).
 
