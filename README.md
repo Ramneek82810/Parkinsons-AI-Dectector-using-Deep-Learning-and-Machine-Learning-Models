@@ -28,7 +28,7 @@
 
 - Pandas & NumPy (Data Manipulation) 📊: Critical for data preprocessing and manipulation tasks.
 
-Matplotlib & Seaborn (Visualization) 🎨: For creating visualizations that help analyze the model's performance and results.
+- Matplotlib & Seaborn (Visualization) 🎨: For creating visualizations that help analyze the model's performance and results.
 
 ## 📂 Dataset Information
 
