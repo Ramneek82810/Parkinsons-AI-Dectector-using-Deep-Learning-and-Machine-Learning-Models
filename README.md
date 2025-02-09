@@ -26,7 +26,7 @@
 
 - PyTorch (Neural Networks) 🔥: Advanced neural network library used for fine-tuning the model.
 
-Pandas & NumPy (Data Manipulation) 📊: Critical for data preprocessing and manipulation tasks.
+- Pandas & NumPy (Data Manipulation) 📊: Critical for data preprocessing and manipulation tasks.
 
 Matplotlib & Seaborn (Visualization) 🎨: For creating visualizations that help analyze the model's performance and results.
 
