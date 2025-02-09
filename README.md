@@ -36,9 +36,9 @@ The project uses biomedical voice measurements to detect Parkinson’s disease. 
 
 ## 📊 Key Data Features Include:
 
-MDVP: Fundamental frequency measurements, such as mean fundamental frequency (Fo).
+- MDVP: Fundamental frequency measurements, such as mean fundamental frequency (Fo).
 
-Jitter & Shimmer: Variability in the voice’s frequency and amplitude, which helps detect voice irregularities.
+- Jitter & Shimmer: Variability in the voice’s frequency and amplitude, which helps detect voice irregularities.
 
 NHR: Noise-to-Harmonics Ratio, an indicator of the voice quality.
 
