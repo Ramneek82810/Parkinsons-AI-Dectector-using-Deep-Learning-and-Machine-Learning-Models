@@ -42,7 +42,7 @@ The project uses biomedical voice measurements to detect Parkinson’s disease. 
 
 - NHR: Noise-to-Harmonics Ratio, an indicator of the voice quality.
 
-Other Vocal Attributes: Various other features such as pitch, loudness, and speech irregularities are used for analysis.
+- Other Vocal Attributes: Various other features such as pitch, loudness, and speech irregularities are used for analysis.
 
 This biomedical data serves as an essential tool for analyzing vocal changes associated with Parkinson’s disease.
 
