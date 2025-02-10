@@ -18,7 +18,7 @@
 
 ## 🛠 Technologies Used
 
-💻 Programming Language: Python 🐍 (v3.12)
+- 💻 Programming Language: Python 🐍 (v3.12)
 
 - Scikit-Learn (Machine Learning) 🤖: Implements a variety of machine learning models for data analysis and prediction.
 
