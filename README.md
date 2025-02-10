@@ -44,7 +44,7 @@ The project uses biomedical voice measurements to detect Parkinson’s disease. 
 
 - Other Vocal Attributes: Various other features such as pitch, loudness, and speech irregularities are used for analysis.
 
-This biomedical data serves as an essential tool for analyzing vocal changes associated with Parkinson’s disease.
+- This biomedical data serves as an essential tool for analyzing vocal changes associated with Parkinson’s disease.
 
 📈 Results & Performance
 Accuracy & Performance Metrics
