@@ -46,7 +46,7 @@ The project uses biomedical voice measurements to detect Parkinson’s disease. 
 
 - This biomedical data serves as an essential tool for analyzing vocal changes associated with Parkinson’s disease.
 
-📈 Results & Performance
+## 📈 Results & Performance
 Accuracy & Performance Metrics
 The models in this project achieved impressive accuracy in detecting Parkinson’s disease. The evaluation results include various metrics such as:
 
