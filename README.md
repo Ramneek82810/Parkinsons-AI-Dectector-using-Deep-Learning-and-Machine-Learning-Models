@@ -55,6 +55,7 @@ The models in this project achieved impressive accuracy in detecting Parkinsonâ€
 Precision: Measures the accuracy of positive predictions.
 
 Recall: Measures the ability to identify all relevant positive cases.
+
 F1-Score: Harmonic mean of Precision and Recall.
 Confusion Matrix: Offers a visual insight into model prediction accuracy.
 Insights and Visualization
