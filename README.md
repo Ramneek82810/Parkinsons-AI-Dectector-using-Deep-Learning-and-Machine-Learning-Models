@@ -48,7 +48,7 @@ The project uses biomedical voice measurements to detect Parkinson’s disease. 
 
 ## 📈 Results & Performance
 
-Accuracy & Performance Metrics
+### Accuracy & Performance Metrics
 
 The models in this project achieved impressive accuracy in detecting Parkinson’s disease. The evaluation results include various metrics such as:
 
@@ -61,6 +61,7 @@ F1-Score: Harmonic mean of Precision and Recall.
 Confusion Matrix: Offers a visual insight into model prediction accuracy.
 
 Insights and Visualization
+
 Performance Graphs: Detailed visualizations are available that showcase the performance of the AI models in terms of accuracy, precision, recall, and more.
 Detailed Reports: The project includes comprehensive analysis reports that explore the underlying patterns and predictions, offering insights into Parkinson’s disease detection.
 🚀 Future Enhancements
