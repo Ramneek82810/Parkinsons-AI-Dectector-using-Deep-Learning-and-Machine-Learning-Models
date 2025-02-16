@@ -50,7 +50,7 @@ The project uses biomedical voice measurements to detect Parkinson’s disease. 
 
 ### Accuracy & Performance Metrics
 
-- The models in this project achieved impressive accuracy in detecting Parkinson’s disease. The evaluation results include various metrics such as:
+The models in this project achieved impressive accuracy in detecting Parkinson’s disease. The evaluation results include various metrics such as:
 
 - Precision: Measures the accuracy of positive predictions.
 
