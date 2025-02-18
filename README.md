@@ -65,7 +65,8 @@ The models in this project achieved impressive accuracy in detecting Parkinson�
 - Performance Graphs: Detailed visualizations are available that showcase the performance of the AI models in terms of accuracy, precision, recall, and more.
 
 - Detailed Reports: The project includes comprehensive analysis reports that explore the underlying patterns and predictions, offering insights into Parkinson’s disease detection.
-🚀 Future Enhancements
+
+## 🚀 Future Enhancements
 Integration with Additional Biomarkers: Incorporating more biomarkers such as genetic data or MRI scans for better prediction accuracy.
 Real-time Web Deployment: Potential deployment as a web-based AI tool that provides real-time predictions for users.
 Advanced Deep Learning Architectures: Exploring more complex deep learning models to improve detection accuracy further.
