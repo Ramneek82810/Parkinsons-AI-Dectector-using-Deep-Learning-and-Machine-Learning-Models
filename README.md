@@ -58,7 +58,7 @@ The models in this project achieved impressive accuracy in detecting Parkinsonâ€
 
 - F1-Score: Harmonic mean of Precision and Recall.
 
-Confusion Matrix: Offers a visual insight into model prediction accuracy.
+- Confusion Matrix: Offers a visual insight into model prediction accuracy.
 
 ### Insights and Visualization
 
