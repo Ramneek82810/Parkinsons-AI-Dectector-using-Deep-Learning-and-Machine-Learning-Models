@@ -1,4 +1,4 @@
-# 🧠 PARKINSON'S AI DEECTOR🚀
+# 🧠 PARKINSON'S AI DEECTOR 🚀
 
 🎯 ParkinsonsAIDetector is an advanced AI-powered project designed to detect and analyze Parkinson’s disease with high precision.
 
