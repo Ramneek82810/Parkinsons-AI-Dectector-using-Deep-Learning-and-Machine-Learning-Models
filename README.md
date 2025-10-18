@@ -6,7 +6,7 @@ By leveraging cutting-edge machine learning 🤖 and deep learning 🧠 techniqu
 
 The repository aims to provide both a comprehensive diagnostic tool and an in-depth exploration of AI's potential in healthcare.
 
-## ✨ Key Features
+## ✨ Key Features 
 
 ✅ AI-Powered Detection: Utilizes AI models for accurate diagnosis of Parkinson’s disease based on voice and biomedical data.
 
